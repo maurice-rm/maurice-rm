@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
-  <img alt="Maurice Reim. Full-Stack Developer. Web apps, and the tooling behind them." src="assets/banner-dark.png">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+    <img alt="Maurice Reim. Full-Stack Developer. Web apps, and the tooling behind them." src="assets/banner-dark.png">
+  </picture>
+</p>
 
 Hi, I'm Maurice.
 
